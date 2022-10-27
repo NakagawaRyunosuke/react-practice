@@ -1,0 +1,19 @@
+.card{
+    margin: 50px 5%;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-bottom: 50px;
+    gap: 30px;
+}
+
+.twitter-timeline.twitter-timeline-rendered{
+    margin: 0 auto;
+}
+
+@media (max-width: 800px) {
+    .card{
+        grid-template-columns: 1fr;
+    }
+}

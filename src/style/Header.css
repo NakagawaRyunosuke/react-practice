@@ -1,0 +1,9 @@
+.header{
+    background-color: rgb(34, 171, 251);
+    display: flex;
+    box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .2);
+}
+.header > h1{
+    padding-left: 5%;
+    color: rgb(53, 53, 53);
+}
