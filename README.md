@@ -8,3 +8,6 @@
 - Twitterのユーザーネームを入力すると、そのアカウントのTLをコレクションできるアプリ
 - しかし、データの保存は未実装であるためリロードやタブを閉じることでデータが消えてしまう
 - データの保存の実装は検討中
+
+### URL
+https://nakagawaryunosuke.github.io/react-practice/
